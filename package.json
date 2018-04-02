@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "content scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyuboslavVoynov/Techdegree-Project-6.git"
+  },
+  "author": "Lyubolsav Voynov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LyuboslavVoynov/Techdegree-Project-6/issues"
+  },
+  "homepage": "https://github.com/LyuboslavVoynov/Techdegree-Project-6#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "json2csv": "^4.0.2",
+    "moment": "^2.22.0",
+    "request": "^2.85.0"
+  }
+}
